@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudraxtyagii/KURO/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0217-contains-duplicate](https://github.com/Rudraxtyagii/KURO/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Rudraxtyagii/KURO/tree/main/0283-move-zeroes/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudraxtyagii/KURO/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rudraxtyagii/KURO/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rudraxtyagii/KURO/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rudraxtyagii/KURO/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0283-move-zeroes](https://github.com/Rudraxtyagii/KURO/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
